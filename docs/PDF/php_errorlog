@@ -1,0 +1,4 @@
+[16-Dec-2013 23:44:21 CST6CDT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/insur950/public_html/public_html/docs/PDF/PROPOSAL.php on line 115
+[20-Dec-2013 10:25:58 Australia/Perth] PHP Fatal error:  Call to undefined method FPDF::SetBackgroundColor() in /home/insur950/public_html/public_html/docs/PDF/PROPOSAL.php on line 34
+[20-Dec-2013 10:26:16 Australia/Perth] PHP Fatal error:  Call to undefined method FPDF::SetBGColor() in /home/insur950/public_html/public_html/docs/PDF/PROPOSAL.php on line 34
+[19-Dec-2013 20:54:19 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/insur950/public_html/public_html/docs/PDF/PROPOSAL.php on line 84
